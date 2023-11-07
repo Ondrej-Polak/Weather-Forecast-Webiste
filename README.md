@@ -1,4 +1,4 @@
-**https://ondrej-polak.github.io/Weather-Forecast-Webiste.io/**
+**https://ondrej-polak.github.io/Weather-Forecast-Website.io/**
 
 
 I created a weather application that interacts with the OpenWeatherMap API to provide real-time weather data. The application is constructed using HTML, CSS, and JavaScript, showcasing a design that is both functional and visually appealing.
